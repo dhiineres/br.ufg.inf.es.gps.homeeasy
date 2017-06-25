@@ -1,0 +1,46 @@
+Universidade Federal de Goiás
+Goiânia, 23 de junho de 2017
+Alunos: Breno de Melo Gomes, Dhiogo Neres Carreira, Erick Vieira,João Lucas Pacheco
+
+Gerência de tempo segundo o scrum
+
+O scrum implementa a gerencia de tempo, com o uso das Sprints, que em resumo, é uma caixa fechada que possui uma data determinada para
+iniciar e terminar, possuindo atividades bem definidas para serem cumpridas neste tempo limitado, sendo justamente esta caixa fechada a
+maior qualidade da aplicação do Scrum.
+Outro evento utilizado para promover a gerencia de tempo, são as time-box. Timebox é um evento com um trabalho fechado e determinado para
+ser realizado dentro de uma duração fixa, ou seja, o trabalho fechado significa que a cerimônia 
+existe para realizar uma tarefa X, como por exemplo, uma reunião para revisar funcionalidades concluídas, não devendo ser utilizada para 
+outro fim.Já a duração fixa existe para delimitar o tempo que a cerimônia deve durar, não devendo ultrapassar o limite estipulado.
+Esta regra tem a função de provocar as equipes para que sejam mais objetivas e diretas. A Sprint é uma Time-box que tem como característica
+principal ter no máximo um mês de duração, não sendo permitido dentro das regras do Scrum estender este prazo além de um mês.
+
+Gerência de Qualidade no Scrum
+
+No gerenciamento de projetos tradicional, gerência da qualidade inclui também requisitos e validação de escopo. Porém, Qualidade no Scrum é
+algo simples e previsto pelos autores originais, é capacidade de entregar o que foi planejado, ou seja, para um software ter qualidade nos
+crum, ele precisa ser entregue como foi planejado.
+O que precisa ser entregue é definido pelas necessidades do cliente, que forma o backlog do produto. O controle da qualidade é feito no
+final de cada sprint, durante a Sprint Review, onde são revisados os resultados finais da sprint. A garantia da qualidade é realizada na 
+Sprint Retrospective. Na retrospectiva o time vai falar sobre o trabalho, as ferramentas utilizadas, sobre as regras do Scrum e como tudo
+ocorreu. Neste momento, poderão ser feitas sugestões de melhoria que serão encaradas pelo time como parte integrante da próxima
+
+Gerência de Riscos no Scrum
+
+O Scrum não fala explicitamente sobre um processo formal de Gerência de Riscos, mas é possível realizá-lo sem sacrificar a agilidade
+desta metodologia. Sendo assim, ele pode ser realizado de maneira orgânica ou evidente. No primeiro caso, os riscos são identificados 
+naturalmente, frutos de reuniões diárias, plannings ou revisões. No segundo caso, basta incluir a realização desta atividade, explicitamente,
+na pauta de alguma cerimônia do Scrum. Seja qual for o caso, após a identificação, é necessário realizar as demais atividades do processo.
+Uma boa prática é a manutenção de um quadro de riscos. A ideia por trás deste é de funcionar como o quadro de tarefas do SCRUM, porém dividido
+em três partes: mitigar, aceitar e evitar, que são as categorias básicas de respostas aos riscos.
+● Evitar um risco é a ação de eliminar a causa deste inviabilizando a sua ocorrência (ex: mudança de estratégia de projeto).
+● Mitigação de um risco é a suavização das consequências, ou a diminuição da probabilidade de um risco por meio de um plano de mitigação (ex: compra de um seguro).
+● Aceitação de um risco é a ação de simplesmente aceitar suas consequências, podendo haver ou não um plano de contingência para o caso deste ocorrer.
+
+Gerência de recurso humanos segundo o Scrum
+
+O scrum apresenta uma abordagem que consegue facilitar a obtenção de métricas que auxiliam os trabalhos em recursos humanos, que vão
+desde adquirir profissionais até fornecer treinamento para melhorar a produtividade dos mesmos.
+Um dos fatores que consegue fornecer esse auxílio é a existência de reuniões diárias e review de sprints, que consegue definir os pontos
+fortes e fracos de cada sprint e os impedimentos que estão ocorrendo dentro das mesmas, fornecendo possibilidade de melhoria contínua do
+processo e profissionais, devido à possibilidade de visualizar as dificuldades e habilidades de cada componente da equipe.
+Tendo em mente as dificuldades e facilidades dos componentes, pode-se organizar as equipes de modo que ocorra a transferência de conhecimento entre os seus componentes, além da organização de trails de ensino que sirvam como um estudo intensivo para crescimento profissional.
