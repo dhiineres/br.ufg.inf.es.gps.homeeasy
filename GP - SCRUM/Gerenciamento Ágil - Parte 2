@@ -24,17 +24,12 @@ final de cada sprint, durante a Sprint Review, onde são revisados os resultados
 Sprint Retrospective. Na retrospectiva o time vai falar sobre o trabalho, as ferramentas utilizadas, sobre as regras do Scrum e como tudo
 ocorreu. Neste momento, poderão ser feitas sugestões de melhoria que serão encaradas pelo time como parte integrante da próxima
 
-Gerência de Riscos no Scrum
+Gerência de Custos no Scrum
 
-O Scrum não fala explicitamente sobre um processo formal de Gerência de Riscos, mas é possível realizá-lo sem sacrificar a agilidade
-desta metodologia. Sendo assim, ele pode ser realizado de maneira orgânica ou evidente. No primeiro caso, os riscos são identificados 
-naturalmente, frutos de reuniões diárias, plannings ou revisões. No segundo caso, basta incluir a realização desta atividade, explicitamente,
-na pauta de alguma cerimônia do Scrum. Seja qual for o caso, após a identificação, é necessário realizar as demais atividades do processo.
-Uma boa prática é a manutenção de um quadro de riscos. A ideia por trás deste é de funcionar como o quadro de tarefas do SCRUM, porém dividido
-em três partes: mitigar, aceitar e evitar, que são as categorias básicas de respostas aos riscos.
-● Evitar um risco é a ação de eliminar a causa deste inviabilizando a sua ocorrência (ex: mudança de estratégia de projeto).
-● Mitigação de um risco é a suavização das consequências, ou a diminuição da probabilidade de um risco por meio de um plano de mitigação (ex: compra de um seguro).
-● Aceitação de um risco é a ação de simplesmente aceitar suas consequências, podendo haver ou não um plano de contingência para o caso deste ocorrer.
+Para fazer o gerenciamento de custos o Scrum utiliza a definição de uma estrutura chamada MVP. MVP é o Minimum Viable Product, 
+que traduzindo significa:
+A menor parte utilizável de um produto, desenvolvido por um determinado projeto, que uma vez lançada (release) agregaria 
+(imediatamente) retorno de investimento para um determinado cliente .
 
 Gerência de recurso humanos segundo o Scrum
 
