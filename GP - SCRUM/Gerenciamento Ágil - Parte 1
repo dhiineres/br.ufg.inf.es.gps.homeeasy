@@ -7,19 +7,35 @@ Relatório pontuando como o scrum trabalha as seguintes áreas de conhecimento d
 
 Gerência de integração no Scrum
 
-O Scrum é um framework, onde o projeto é dividido em ciclos, chamados de Sprints. A cada sprint, são implementadas novas atualizações, de forma que, o scrum é um método de desenvolvimento iterativo.
- Dessa forma, o planejamento de todo o projeto é definido como uma lista de funcionalidades, chamada de Product Backlog. Sendo assim, a gerência de integração se dá,  pelas sprint planning meetings, ou seja, uma reunião de planejamento ao início de cada novo ciclo(sprint),  na qual o Product Owner(dono do produto) prioriza os itens do Product Backlog e a equipe seleciona as atividades que ela será capaz de implementar durante o Sprint que se inicia e como integra-las ao produto.
+O Scrum é um framework, onde o projeto é dividido em ciclos, chamados de Sprints. A cada sprint, são implementadas novas atualizações,
+de forma que, o scrum é um método de desenvolvimento iterativo.
+Dessa forma, o planejamento de todo o projeto é definido como uma lista de funcionalidades, chamada de Product Backlog. Sendo assim, a 
+gerência de integração se dá,  pelas sprint planning meetings, ou seja, uma reunião de planejamento ao início de cada novo ciclo(sprint),
+na qual o Product Owner(dono do produto) prioriza os itens do Product Backlog e a equipe seleciona as atividades que ela será capaz de 
+implementar durante o Sprint que se inicia e como integra-las ao produto.
 
 Gerência de Partes Interessadas no Scrum
 
-Um dos principais atributos de uma gestão ágil de projetos é o estabelecimento do fato de que o escopo, mesmo que definido, é flexível, portanto mudanças podem e irão acontecer durante o desenvolvimento do projeto.
-Como a maior parte de derivações do Escopo é definida por stakeholders a gestão dos mesmos é uma questão fundamental para o bom andamento do projeto e entrega de um produto que satisfaça o cliente.
-Para que ocorra uma gestão efetiva de stakeholders em um projeto é necessário que se conheça as partes interessadas, que haja uma boa comunicação e disponibilização de métricas relativas ao andamento do projeto e que haja o engajamento e monitoramento das partes interessadas.
-Como o scrum não conta com um gerente de projetos responsável por realizar o gerenciamento das partes interessadas ocorre uma descentralização dos meios e formas de comunicação, onde, mesmo com a figura do scrum master, toda a equipe envolvida no projeto se encontra apta tanto a resolver os problemas encontrados no decorrer do projeto como para realizar a comunicação com os stakeholders, o que viabiliza uma comunicação menos formal e facilita a obtenção de feedbacks a respeito do andamento do projeto pelos stakeholders. Outro foco do gerenciamento ágil é de que haja a disponibilidade do cliente para que o mesmo possa acompanhar o desenrolar do projeto e se torne parte da equipe, o que também é um facilitador no momento de serem repassados requisitos e feedbacks.
+Um dos principais atributos de uma gestão ágil de projetos é o estabelecimento do fato de que o escopo, mesmo que definido, é flexível, 
+portanto mudanças podem e irão acontecer durante o desenvolvimento do projeto.
+Como a maior parte de derivações do Escopo é definida por stakeholders a gestão dos mesmos é uma questão fundamental para o bom andamento 
+do projeto e entrega de um produto que satisfaça o cliente.
+Para que ocorra uma gestão efetiva de stakeholders em um projeto é necessário que se conheça as partes interessadas, que haja uma boa 
+comunicação e disponibilização de métricas relativas ao andamento do projeto e que haja o engajamento e monitoramento das partes
+interessadas.
+Como o scrum não conta com um gerente de projetos responsável por realizar o gerenciamento das partes interessadas ocorre uma descentralização
+dos meios e formas de comunicação, onde, mesmo com a figura do scrum master, toda a equipe envolvida no projeto se encontra apta tanto a 
+resolver os problemas encontrados no decorrer do projeto como para realizar a comunicação com os stakeholders, o que viabiliza uma
+comunicação menos formal e facilita a obtenção de feedbacks a respeito do andamento do projeto pelos stakeholders. Outro foco do
+gerenciamento ágil é de que haja a disponibilidade do cliente para que o mesmo possa acompanhar o desenrolar do projeto e se torne 
+parte da equipe, o que também é um facilitador no momento de serem repassados requisitos e feedbacks.
 
 Gerência de Escopo no Scrum
 
-O escopo no Scrum, diferentemente de metodologias tradicionais, é tratado como algo alterável. No caso do Scrum, as alterações são feitas no planejamento do product backlog e refletidas nos sprints, a análise de impacto é realizada nas duas etapas e o replanejamento é visualizado através das “time boxes”. O escopo pode ser atualizado no final de cada sprint de acordo com a evolução das demandas do próprio produto ou do cliente.
+O escopo no Scrum, diferentemente de metodologias tradicionais, é tratado como algo alterável. No caso do Scrum, as alterações são feitas
+no planejamento do product backlog e refletidas nos sprints, a análise de impacto é realizada nas duas etapas e o replanejamento é visualizado
+através das “time boxes”. O escopo pode ser atualizado no final de cada sprint de acordo com a evolução das demandas do próprio produto ou 
+do cliente.
 
 
 
